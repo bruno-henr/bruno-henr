@@ -1,20 +1,20 @@
 # Olá, me chamo Bruno Henrique 👋
 
-#### Se você está procurando um desenvolvedor Fullstack talentoso e experiente, você veio ao lugar certo! Eu sou um desenvolvedor Fullstack com expertise em duas tecnologias de ponta, o React JS e o Node JS.
+Se você está procurando um desenvolvedor Fullstack talentoso e experiente, você veio ao lugar certo! Eu sou um desenvolvedor Fullstack com expertise em duas tecnologias de ponta, o React JS e o Node JS.
 
-#### Com mais de 2 anos de experiência em desenvolvimento de software, sou apaixonado por criar soluções de ponta a ponta que atendem às necessidades dos meus clientes. Com minha habilidade em React JS, posso criar interfaces de usuário impressionantes e responsivas, que se adaptam a diferentes dispositivos e plataformas. Além disso, com minha experiência em Node JS, sou capaz de desenvolver soluções escaláveis e eficientes do lado do servidor.
+Com mais de 2 anos de experiência em desenvolvimento de software, sou apaixonado por criar soluções de ponta a ponta que atendem às necessidades dos meus clientes. Com minha habilidade em React JS, posso criar interfaces de usuário impressionantes e responsivas, que se adaptam a diferentes dispositivos e plataformas. Além disso, com minha experiência em Node JS, sou capaz de desenvolver soluções escaláveis e eficientes do lado do servidor.
 
-#### Eu amo enfrentar desafios técnicos e trabalhar em projetos inovadores que impulsionem o negócio dos meus clientes. Com habilidades avançadas em Javascript, HTML, CSS, além de frameworks e bibliotecas relacionadas ao React JS e Node JS, eu sou capaz de criar soluções de alta qualidade que entregam uma experiência superior ao usuário.
+Eu amo enfrentar desafios técnicos e trabalhar em projetos inovadores que impulsionem o negócio dos meus clientes. Com habilidades avançadas em Javascript, HTML, CSS, além de frameworks e bibliotecas relacionadas ao React JS e Node JS, eu sou capaz de criar soluções de alta qualidade que entregam uma experiência superior ao usuário.
 
-#### Se você está procurando um desenvolvedor Fullstack que pode entregar soluções robustas, escaláveis e com design atraente, então eu sou o profissional certo para você. Entre em contato comigo e vamos trabalhar juntos para criar a próxima solução incrível!
+Se você está procurando um desenvolvedor Fullstack que pode entregar soluções robustas, escaláveis e com design atraente, então eu sou o profissional certo para você. Entre em contato comigo e vamos trabalhar juntos para criar a próxima solução incrível!
 
 <picture>
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=bruno-henr&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=bruno-henr&show_icons=true&theme=dracula"
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=bruno-henr&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=bruno-henr&show_icons=true&theme=dracula"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=bruno-henr&show_icons=true" />
