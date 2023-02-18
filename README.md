@@ -1,7 +1,7 @@
 ### Olá, me chamo Bruno Henrique 👋
 Se você está procurando um desenvolvedor Fullstack talentoso e experiente, você veio ao lugar certo! Eu sou um desenvolvedor Fullstack com expertise em duas tecnologias de ponta, o React JS e o Node JS.
 
-Com mais de X anos de experiência em desenvolvimento de software, sou apaixonado por criar soluções de ponta a ponta que atendem às necessidades dos meus clientes. Com minha habilidade em React JS, posso criar interfaces de usuário impressionantes e responsivas, que se adaptam a diferentes dispositivos e plataformas. Além disso, com minha experiência em Node JS, sou capaz de desenvolver soluções escaláveis e eficientes do lado do servidor.
+Com mais de 2 anos de experiência em desenvolvimento de software, sou apaixonado por criar soluções de ponta a ponta que atendem às necessidades dos meus clientes. Com minha habilidade em React JS, posso criar interfaces de usuário impressionantes e responsivas, que se adaptam a diferentes dispositivos e plataformas. Além disso, com minha experiência em Node JS, sou capaz de desenvolver soluções escaláveis e eficientes do lado do servidor.
 
 Eu amo enfrentar desafios técnicos e trabalhar em projetos inovadores que impulsionem o negócio dos meus clientes. Com habilidades avançadas em Javascript, HTML, CSS, além de frameworks e bibliotecas relacionadas ao React JS e Node JS, eu sou capaz de criar soluções de alta qualidade que entregam uma experiência superior ao usuário.
 
