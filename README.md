@@ -15,12 +15,12 @@ Se você está procurando um desenvolvedor Fullstack que pode entregar soluçõe
 />
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=bruno-henr&show_icons=true&theme=dracula"
-  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
 />
-<img src="https://github-readme-stats.vercel.app/api?username=bruno-henr&show_icons=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=bruno-henr&show_icons=true&theme=dracula" />
 </picture>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-henr&hide=php&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bruno-henr&theme=dracula&hide=php&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Social
 <a href="https://www.linkedin.com/in/brunohenr/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
