@@ -1,4 +1,4 @@
-# Olá, me chamo Bruno Henrique 👋
+# Olá, é um prazer conhecê-lo! Meu nome é Bruno Henrique. 👋
 
 Se você está procurando um desenvolvedor Fullstack talentoso e experiente, você veio ao lugar certo! Eu sou um desenvolvedor Fullstack com expertise em duas tecnologias de ponta, o React JS e o Node JS.
 
